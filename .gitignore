@@ -1,4 +1,4 @@
-tfr/
 tmp/
 midi/
+data/
 *.ckpt.*
