@@ -1,0 +1,4 @@
+tfr/
+tmp/
+midi/
+*.ckpt.*
